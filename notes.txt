@@ -1,0 +1,9 @@
+My notes from Angular JS Up And Running
+
+# Gitgub repo https://github.com/shyamseshadri/angularjs-up-and-running
+
+>> Chapter 1
+
+
+Protractor (Test Framework): https://github.com/angular/protractor
+Karma (Test Framework): http://karma-runner.github.io/0.12/index.html
